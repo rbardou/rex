@@ -1,0 +1,4 @@
+(library
+ (name rex)
+ (public_name rex)
+ (libraries re))
